@@ -19,6 +19,7 @@ void main(){
   print(output);
 }
 
+
 //string merupakan tipe data teks
 //didalam string kita bisa menggunakan tanda " " atau ' '
 //kita bisa menggunakan escape string \ untuk menambahkan tanda ' ' ke string ketika kalimat memiliki petik
