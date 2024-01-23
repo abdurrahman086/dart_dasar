@@ -14,9 +14,7 @@
 
 // set mendukung deklarasi secara langsung
 
-
 void main() {
-
   Set<int> numbers = {};
   var strings = <String>{};
   var doubles = <double>{};
@@ -35,19 +33,14 @@ void main() {
   print(names.length);
 
   names.remove("solo");
-  
+
   print(names);
   print(names.length);
 
   // deklarasi secara langsung
 
-  var kota = <String>{
-    'solo',
-    'jogja',
-    'jakarta'
-  };
+  var kota = <String>{'solo', 'jogja', 'jakarta'};
 
   print(kota);
   print(kota.length);
-
 }
