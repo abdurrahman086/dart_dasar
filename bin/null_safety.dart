@@ -58,6 +58,6 @@ void main() {
   // Namun jika data null, maka akan terjadi error
 
   // int? nullableNumber = null;
-  // int nonNullableNumber = nullableNumber!; // bisa error jika nullableNumber => null
+  // int nonNullableNumber = nullableNumber!; // bisa error jika nullableNumber => null 0
 
 }
